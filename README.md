@@ -1,6 +1,6 @@
 # 🎮 Hacker Bridge Game
 
-![Hacker Bridge Game](https://i.postimg.cc/TY28jTqJ/bg4-ia.jpg)
+![Hacker Bridge Game](https://i.postimg.cc/yYyvmqwD/hacker-theme.png)
 
 ## 🚀 Sobre o Projeto
 **Hacker Bridge Game** é um jogo interativo desenvolvido durante a **Imersão Alura DEV 9ª edição**. Inspirado em desafios hacker, o jogador precisa escolher **a ponte correta** para avançar, sem ser descoberto! 💻🕵️‍♂️
