@@ -33,6 +33,6 @@
 ## 🏆 Créditos
 Este projeto foi desenvolvido como parte da **Imersão Alura DEV 9ª edição**.
 
-👨‍💻 Criado por [Seu Nome](https://github.com/seu-usuario)
+👨‍💻 Criado por [Júlia Thereza](https://github.com/ajuliathereza)
 
 🚀 Vamos hackear e codar! #ImersãoAlura #GameDev #HackerMode
